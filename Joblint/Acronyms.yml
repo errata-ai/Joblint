@@ -7,4 +7,4 @@ action:
   name: replace
 swap:
   'cascading[ -]?style[ -]?sheets': CSS
-  'hyper[ -]?text([ -]?mark[ -]?up([ -]?language)?)?': HTML
+  'hyper[ -]?text(?:[ -]?mark[ -]?up(?:[ -]?language)?)?': HTML
